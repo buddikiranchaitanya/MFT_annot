@@ -76,8 +76,23 @@ A toy annotation text is shown below:
  
    [Go to Top][4]
  </details>
+
+ #### bengaluru, find the output file [here][5]
+##### Identities in bengaluru video
+<img src="images/bengal/bengal_ids.png" width=600, height=350> 
+<details>
+  <summary>Click here to view the face tracks from annotated nyc</summary>
+   <img src="images/bengal/bengal_tracs_2.png" width=800> 
+   <img src="images/bengal/bengal_tracs_3.png" width=700> 
+   <img src="images/bengal/bengal_tracs_4.png" width=700 > 
+   <img src="images/bengal/bengal_tracs_1.png" width=700> 
+ 
+   [Go to Top][6]
+ </details>
  
 [1]: https://pypi.org/project/retinaface-pytorch/
 [2]: https://www.youtube.com/watch?v=gszbhDlbv0E&list=PLVhDP9umWvqQA0YVloYnDTbUIVmG3YHnl&index=2&ab_channel=KiranChaitanya
 [3]: nyc
 [4]: #identities-in-nyc-video
+[5]: bengaluru
+[6]: #identities-in-bengaluru-video
