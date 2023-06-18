@@ -3,9 +3,9 @@
 
 This repository contains the face tracking annotations for new set of videos and also the sample of face tracks for both annotated and output videos.
 ### Table of Contents
-  * Videos 
-  * Annotations
-  * Face Tracks
+  * [Videos][11]
+  * [Annotations][12]
+  * [Face Tracks][13]
 ### Videos
 #### Summary Stats
 | Video         | Resolution |  FPS | Frames| det boxes| #subjs| avg. density|avg. track len| description|
@@ -50,6 +50,8 @@ A toy annotation text is shown below:
 </p>
 
 ###  Face Tracks
+Not all tracks are displayed below. Only select Face tracks with face crops that are enrollable worthy are displayed.
+
 #### 12 am, find output file [here][2]
 
 <details>
@@ -77,7 +79,7 @@ A toy annotation text is shown below:
    [Go to Top][4]
  </details>
 
- #### bengaluru, find the output file [here][5]
+#### bengaluru, find the output file [here][5]
 ##### Identities in bengaluru video
 <img src="images/bengal/bengal_ids.png" width=600, height=350> 
 <details>
@@ -90,9 +92,26 @@ A toy annotation text is shown below:
    [Go to Top][6]
  </details>
  
+#### street, find the output file [here][7]
+##### Identities in street video
+<img src="images/street/street_ids.png" width=700, height=250> 
+<details>
+  <summary>Click here to view the face tracks from annotated nyc</summary>
+   <img src="images/street/street_tracs_2.png" width=800> 
+   <img src="images/street/street_tracs_1.png" width=700> 
+ 
+   [Go to Top][8]
+ </details>
+ 
+ 
 [1]: https://pypi.org/project/retinaface-pytorch/
 [2]: https://www.youtube.com/watch?v=gszbhDlbv0E&list=PLVhDP9umWvqQA0YVloYnDTbUIVmG3YHnl&index=2&ab_channel=KiranChaitanya
 [3]: nyc
 [4]: #identities-in-nyc-video
 [5]: bengaluru
 [6]: #identities-in-bengaluru-video
+[7]: street
+[8]: #identities-in-street-video
+[11]: #videos
+[12]: #annotations
+[13]: #face-tracks
