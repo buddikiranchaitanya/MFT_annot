@@ -49,7 +49,7 @@ A toy annotation text is shown below:
   <img src="images/annotex.png" width=700>
 </p>
 
-###  Tracks
+###  Face Tracks
 #### 12 am, find output file [here][2]
 
 <details>
@@ -63,18 +63,21 @@ A toy annotation text is shown below:
    | <img src="images/12am/210_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/210.png" width=320>  </details>    | <img src="images/12am/211_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/211.png" width=320>  </details>   | <img src="images/12am/212_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/212.png" width=320>  </details>     |
 </details>
 
-#### nyc, find output file [here][3]
-
+#### nyc, find the output file [here][3]
+##### Identities in nyc video
+<img src="images/nyc/nyc_ids.png" width=500, height=400> 
 <details>
   <summary>Click here to view the face tracks from annotated nyc</summary>
-   <img src="images/nyc/nyc_tracs_2.png" width=700> 
+   <img src="images/nyc/nyc_tracs_2.png" width=800> 
    <img src="images/nyc/nyc_tracs_3.png" width=700> 
    <img src="images/nyc/nyc_tracs_4.png" width=700 > 
    <img src="images/nyc/nyc_tracs_5.png" width=700> 
    <img src="images/nyc/nyc_tracs_6.png" width=700> 
  
+   [Go to Top][4]
  </details>
  
 [1]: https://pypi.org/project/retinaface-pytorch/
 [2]: https://www.youtube.com/watch?v=gszbhDlbv0E&list=PLVhDP9umWvqQA0YVloYnDTbUIVmG3YHnl&index=2&ab_channel=KiranChaitanya
 [3]: nyc
+[4]: #identities-in-nyc-video
