@@ -5,7 +5,7 @@ This repository contains the face tracking annotations for new set of videos and
 ### Table of Contents
   * Videos 
   * Annotations
-  * Tracks
+  * Face Tracks
 ### Videos
 #### Summary Stats
 | Video         | Resolution |  FPS | Frames| det boxes| #subjs| avg. density|avg. track len| description|
@@ -55,12 +55,26 @@ A toy annotation text is shown below:
 <details>
   <summary>Click here to view the identites in annotated 12am</summary>
  
-   |  |   |   |   | 
-   |:----: | :----: | :----: |:----:  |
-   | <img src="images/12am/201_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/201.png" width=280>  </details>  | <img src="images/12am/202_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/202.png" width=280>  </details>    | <img src="images/12am/203_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/203.png" width=280>  </details>   | <img src="images/12am/204_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/204.png" width=280>  </details>     |
-   | <img src="images/12am/205_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/205.png" width=280>  </details>  | <img src="images/12am/206_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/206.png" width=280>  </details>    | <img src="images/12am/207_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/207.png" width=280>  </details>   | <img src="images/12am/208_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/208.png" width=280>  </details>     |
-   | <img src="images/12am/209_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/209.png" width=280>  </details>  | <img src="images/12am/210_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/210.png" width=280>  </details>    | <img src="images/12am/211_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/211.png" width=280>  </details>   | <img src="images/12am/212_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/212.png" width=280>  </details>     |
+   |  |   |   |
+   |:----: | :----: | :----: |
+   | <img src="images/12am/201_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/201.png" width=320>  </details>  | <img src="images/12am/202_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/202.png" width=320>  </details>    | <img src="images/12am/203_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/203.png" width=320>  </details>   |
+   | <img src="images/12am/204_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/204.png" width=320>  </details>  | <img src="images/12am/205_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/205.png" width=320>  </details>  | <img src="images/12am/206_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/206.png" width=320>  </details>    |
+   | <img src="images/12am/207_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/207.png" width=320>  </details>   | <img src="images/12am/208_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/208.png" width=320>  </details>     | <img src="images/12am/209_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/209.png" width=320>  </details>  |
+   | <img src="images/12am/210_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/210.png" width=320>  </details>    | <img src="images/12am/211_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/211.png" width=320>  </details>   | <img src="images/12am/212_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/212.png" width=320>  </details>     |
 </details>
 
+#### nyc, find output file [here][3]
+
+<details>
+  <summary>Click here to view the face tracks from annotated nyc</summary>
+   <img src="images/nyc/nyc_tracs_2.png" width=700> 
+   <img src="images/nyc/nyc_tracs_3.png" width=700> 
+   <img src="images/nyc/nyc_tracs_4.png" width=700 > 
+   <img src="images/nyc/nyc_tracs_5.png" width=700> 
+   <img src="images/nyc/nyc_tracs_6.png" width=700> 
+ 
+ </details>
+ 
 [1]: https://pypi.org/project/retinaface-pytorch/
 [2]: https://www.youtube.com/watch?v=gszbhDlbv0E&list=PLVhDP9umWvqQA0YVloYnDTbUIVmG3YHnl&index=2&ab_channel=KiranChaitanya
+[3]: nyc
