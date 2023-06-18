@@ -94,7 +94,7 @@ Not all tracks are displayed below. Only select Face tracks with face crops that
  
 #### street, find the output file [here][7]
 ##### Identities in street video
-<img src="images/street/street_ids.png" width=700, height=250> 
+<img src="images/street/street_ids.png" width=700, height=220> 
 <details>
   <summary>Click here to view the face tracks from annotated nyc</summary>
    <img src="images/street/street_tracs_2.png" width=800> 
@@ -102,16 +102,29 @@ Not all tracks are displayed below. Only select Face tracks with face crops that
  
    [Go to Top][8]
  </details>
+
+ #### shibuya, find the output file [here][9]
+##### Identities in shibuya video
+<img src="images/shibuya/shibuya_ids.png" width=500, height=380> 
+<details>
+  <summary>Click here to view the face tracks from shibuya output</summary>
+   <img src="images/shibuya/shibuya_tracs_2.png" width=800> 
+   <img src="images/shibuya/shibuya_tracs_1.png" width=700> 
+ 
+   [Go to Top][10]
+ </details>
  
  
 [1]: https://pypi.org/project/retinaface-pytorch/
-[2]: https://www.youtube.com/watch?v=gszbhDlbv0E&list=PLVhDP9umWvqQA0YVloYnDTbUIVmG3YHnl&index=2&ab_channel=KiranChaitanya
-[3]: nyc
+[2]: https://youtu.be/gszbhDlbv0E
+[3]: https://youtu.be/h3UMs18d1sM
 [4]: #identities-in-nyc-video
-[5]: bengaluru
+[5]: https://youtu.be/j0YnM3MpDR4
 [6]: #identities-in-bengaluru-video
-[7]: street
+[7]: https://www.youtube.com/watch?v=kwX7mZP8upg&ab_channel=KiranChaitanya
 [8]: #identities-in-street-video
+[9]: https://www.youtube.com/watch?v=1knhOn9GIBk&feature=youtu.be&ab_channel=KiranChaitanya
+[10]: #identities-in-shibuya-video
 [11]: #videos
 [12]: #annotations
 [13]: #face-tracks
