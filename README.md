@@ -53,17 +53,13 @@ A toy annotation text is shown below:
 Not all tracks are displayed below. Only select Face tracks with face crops that are enrollable worthy are displayed.
 
 #### 12 am, find output file [here][2]
-
-<details>
-  <summary>Click here to view the identites in annotated 12am</summary>
- 
+12 am is sourced from a trailer for a stage play of 12 Angry Men. Though does not fall under the "crowded scenes" category, but was made for demonstrating effectiveness of annotation strategy. Obviously, there are 12 tracks in the video, with an average track length on the higher side at 1140. All the tracks feature fragmentation, add to it shot changes and melodramatic performances from the actors mean there is a wide diversity of face appearances in this video that have to be linked despite absence of continuity in motion.
    |  |   |   |
    |:----: | :----: | :----: |
    | <img src="images/12am/201_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/201.png" width=320>  </details>  | <img src="images/12am/202_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/202.png" width=320>  </details>    | <img src="images/12am/203_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/203.png" width=320>  </details>   |
    | <img src="images/12am/204_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/204.png" width=320>  </details>  | <img src="images/12am/205_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/205.png" width=320>  </details>  | <img src="images/12am/206_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/206.png" width=320>  </details>    |
    | <img src="images/12am/207_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/207.png" width=320>  </details>   | <img src="images/12am/208_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/208.png" width=320>  </details>     | <img src="images/12am/209_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/209.png" width=320>  </details>  |
    | <img src="images/12am/210_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/210.png" width=320>  </details>    | <img src="images/12am/211_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/211.png" width=320>  </details>   | <img src="images/12am/212_f.jpg" width=100 height=120> <details><summary>view samples from track </summary><img src="images/12am/212.png" width=320>  </details>     |
-</details>
 
 #### nyc, find the output file [here][3]
 ##### Identities in nyc video
@@ -80,6 +76,7 @@ Not all tracks are displayed below. Only select Face tracks with face crops that
  </details>
 
 #### bengaluru, find the output file [here][5]
+This is s a video recording in which we can see people moving about towards and away from camera focussed on a busy footpath. The crowding is medium with 3.8 detections per frame on average.
 ##### Identities in bengaluru video
 <img src="images/bengal/bengal_ids.png" width=600, height=350> 
 <details>
